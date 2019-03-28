@@ -1,0 +1,118 @@
+{
+  "en": {
+    "menu": {
+      "main": "main",
+      "tours": "tours",
+      "about": "about",
+      "contacts": "contacts",
+      "reserve": "reserve",
+      "lang": "RU"
+    },
+    "content": {
+      "title": [ "Чон-Кемин", "Беш-Кунгей" ],
+      "description": [
+        "The Guest house is located in Chon-Kemin - 150 km from the city, 3 km from the village of Karool-Dobo. Mountains, river, crystal springs, virgin forest of the National Reserve. A fenced plot of land around 100 acres, in the territory of the livestock farm near the forest. On the territory you can find houses, yurts and tents. Safety is guaranteed.",
+        "Another Guest house is located in Besh-Kungei - 9 km from the city in the village of Besh-Kungei on a plot of 25 acres. Orchard with blueberries, raspberries and strawberries. On the site is a house with all the amenities, a sauna, a yurt. Security is guaranteed."
+      ],
+      "housingTitle": "Accomodation",
+      "housing": [
+        [
+          "The house – can fit 2 people in each room. There are all amenities: heating, shower, bathroom. The cost is 700 som / day.",
+          "In the yurt - from 2 to 8 people can fit. Heating is provided. The cost is 400 som / day.",
+          "In the tent - from 2 to 4 people can fit. With the possibility of arranging heating. The cost is 200 som / day.",
+          "3 meals a day - 800 som / day",
+          "2 meals a day - 450 som / day (breakfast and dinner)"
+          ],
+        [
+          "In the house - 2-3 people can fit in each room. There are all amenities: heating, shower, bathroom. The cost is 700 som / day.",
+          "In the yurt - from 2 to 8 people can fit. Heating is provided. The cost is 400 som / day.",
+          "3 meals a day - 800 som / day",
+          "2 meals a day - 450 som / day (breakfast and dinner)"
+        ]
+         ],
+      "moreTitle": "Additional services",
+      "more" : [
+        [
+          "- Horse riding and walking/hiking for 2 hours or more, of any complexity. With the possibility of staying overnight.",
+          "- Cycling and riding on moto blocks, horse carts, as well as riding sleds in the winter.",
+          "- Fishing.",
+          "- Photo hunting.",
+          "- Can be organized the exhibition of national games and customs, folk arts and crafts. As well as having the opportunity to participate in them.",
+          "- Can be organized the tour of viewing animals on the farm.",
+          "- Pick up and transfer to the destination and return transfer to the airport Manas."
+        ],
+        [
+          "- Horse rides and walks for 2 hours or more to the Alamedin pass and Semenov peak. With the possibility of staying overnight.",
+          "- Walking/hiking and riding on moto blocks for 2 hours or more.",
+          "- Horseback riding, sleigh rides in winter.",
+          "- Fishing.",
+          "- Photo hunting.",
+          "- Can be organized the exhibition of national games and customs, folk arts and crafts. As well as having the opportunity to participate in them.",
+          "- Pick up and transfer to the destination and return transfer to the airport Manas."
+        ]
+      ],
+      "images": [
+        ["1.jpeg","11.JPG","12.JPG","13.JPG","15.JPG","16.JPG","17.JPG", "18.JPG","19.JPG","190.JPG","191.JPG","192.JPG","193.JPG"],
+        ["2.jpeg","DSC03733.JPG","DSC03734.JPG","DSC03736.JPG","DSC03742.JPG","DSC03744.JPG", "DSC03745.JPG","DSC03747.JPG"]
+      ]
+    }
+  },
+  "ru": {
+    "menu": {
+      "main": "Главная",
+      "tours": "Туры",
+      "about": "О нас",
+      "contacts": "Контакты",
+      "reserve": "Бронь",
+      "lang": "EN"
+    },
+    "content": {
+      "title": [ "Чон-Кемин", "Беш-Кунгей" ],
+      "description": [
+        "Гостевой дом в Чон-Кемине – 150 км от города, 3 км от села Кароол-Добо. Горы, речка, кристальные родники, девственный лес Национального заповедника. Огороженный участок площадью  1 гектар на территории животноводческой фермы у леса. На участке находятся домики, юрты, палатки. Безопасность гарантируется.",
+        "Гостевой дом Беш-Кунгей – в 9 км от города в селе Беш-Кунгей на участке 25 соток. Фруктовый сад, смородина, малина и клубника. На участке дом со всеми удобствами, сауна, установлены юрты. Безопасность гарантируется."
+      ],
+      "housingTitle": "Проживание",
+      "housing": [
+        [
+          "В домике - в комнате по 2 человека, имеются все удобства: сан узел, горячая вода, отопление. Стоимость: 700 сом/сутки.",
+          "В юрте - от 2 до 8 человек. Имеется отопление. Стоимость: 400 сом/сутки.",
+          "В палатке – от 2 до 4 человек. Возможно отопление. Стоимость: 200 сом/сутки.",
+          "3 разовое питание - 800 сом в день",
+          "2 разовое питание (завтрак,ужин) - 450 сом в день"
+          ],
+        [
+          "В доме - в комнатах по 2-3 человека. Имеются все удобства: отопление, душ, санузел. Стоимость – 700 сом/сутки.",
+          "В юрте - от 2 до 8 человек. Имеется отопление. Стоимость: 400 сом/сутки.",
+          "3 разовое питание - 800 сом в день",
+          "2 разовое питание (завтрак,ужин) - 450 сом в день"
+        ]
+         ],
+      "moreTitle": "Дополнительные услуги",
+      "more" : [
+        [
+          "- Конные и пешие прогулки от 2 часов и более, любой категории сложности. Возможно с ночевкой.",
+          "- Катания на велосипедах и мотоблоках, конных упряжах, зимой на санях.",
+	        "- Рыбалка.",
+          "- Фото охота.",
+          "- Организация просмотра национальных игр и обычаев, народно-прикладного творчества. Участия в них.",
+          "- Организация просмотра содержания животных на ферме.",
+          "- Встреча в аэропорту «Манас», трансфер в пункт назначения и обратный трансфер в аэропорт «Манас»."
+        ],
+        [
+          "- Конные и пешие прогулки от 2 часов и более до перевала Аламедин и пика Семенова. Возможно с ночевкой.",
+          "- Прогулки на велосипедах и мотоблоках от 2 часов и более.",
+          "- Катания на конных упряжах, зимой на санях.",
+          "- Фото охота.",
+          "- Рыбалка.",
+          "- Организация просмотра национальных игр и обычаев, народно-прикладного творчества. Участие в них.",
+          "- Встреча в аэропорту «Манас», трансфер в пункт назначения и обратный трансфер в аэропорт «Манас»."
+        ]
+      ],
+      "images": [
+        ["1.jpeg","11.JPG","12.JPG","13.JPG","15.JPG","16.JPG","17.JPG", "18.JPG","19.JPG","190.JPG","191.JPG","192.JPG","193.JPG"],
+        ["2.jpeg","DSC03733.JPG","DSC03734.JPG","DSC03736.JPG","DSC03742.JPG","DSC03744.JPG", "DSC03745.JPG","DSC03747.JPG"]
+      ]
+    }
+  }
+}

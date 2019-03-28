@@ -1,0 +1,121 @@
+{
+  "en": {
+    "imageURL": "main.jpeg",
+    "menu": {
+      "main": "main",
+      "tours": "tours",
+      "about": "about",
+      "contacts": "contacts",
+      "reserve": "reserve",
+      "lang": "RU"
+    },
+    "content": {
+      "title": "Wild Tour",
+      "promo": "Explore the beauty of wild nature of Kyrgyzstan.",
+      "paragraph": "We will show you the beauty of Kyrgyzstan from its lakes and waterfalls to its majestic Ala-Too mountains with their snow-white caps, arrange hiking tours and create campsites. Each tour is special and will become your personal experience.",
+      "first": "Nature",
+      "firstText": "Discover the nature of Kyrgyzstan, its magnificent mountains, green valleys and beautiful lakes.",
+      "second": "Safety",
+      "secondText": "You will be accompanied by an experienced guide who personally visited each of the places and knows its every corner.",
+      "third": "Leisure",
+      "thirdText": "Active holidays : Forget about picnics. You will have to walk along picturesque mountain slopes and wild forest paths.",
+      "fourth": "Optimal price",
+      "fourthText": "A wide range of interesting tours for the best price."
+    },
+    "about": {
+      "imageURL": "about.jpeg",
+      "title": "About us",
+      "promo": "Tourist agency on the organization of tours in Kyrgyzstan.",
+      "paragraph": "We specialize in organizing tours and expeditions around Kyrgyzstan. Not only will we show you the main sights of our country, but also places lost among the mountains, over which the human foot rarely steps. In addition to hiking, we will organize tent camps that allow you to dive into the wild for a few days and enjoy its beauty. It's time for your adventures.",
+      "title2": "Our mission",
+      "paragraph2": "Conduct expeditions and hikes in the colorful places of the country of Kyrgyzstan, which will forever remain in you memories. We will compose the route and the tour plan in accordance with your wishes, therefore each new tour will be unique. Our team will provide you an excellent and safe holiday in the wild, where everyone will discover something new."
+    },
+    "contacts": {
+      "imageURL": "contacts.jpeg",
+      "title": "Contacts",
+      "promo": "If you have any questions, do not hesitate to contact us through any means and ask them.",
+      "numberTitle": "Phone Number",
+      "number1": "+996-777-771-884",
+      "number2": "+371-2322-5773",
+      "number3": "+996-555-580-034",
+      "emailTitle": "E-mail",
+      "email": "wildtourkg@gmail.com",
+      "facebookTitle": "Facebook",
+      "facebook": "wildtourkg",
+      "call": "call",
+      "message": "message",
+      "follow": "follow"
+    },
+    "reserve": {
+      "imageURL": "reserve.jpeg",
+      "title": "Booking",
+      "promo": "If you want to book a tour, you can send us the form and we will call you back.",
+      "name": "Your name",
+      "number": "E-mail or Phone number",
+      "message":"Message (optional)",
+      "send": "Send",
+      "call": "You can also call us and reserve a tour.",
+      "thanks": "Thank you!",
+      "error": "Please fill out all necessary information"
+    }
+  },
+  "ru": {
+    "menu": {
+      "main": "Главная",
+      "tours": "Туры",
+      "about": "О нас",
+      "contacts": "Контакты",
+      "reserve": "Бронь",
+      "lang": "EN"
+    },
+    "content": {
+      "title": "Wild Tour",
+      "promo": "Познайте красоты дикой природы Кыргызстана.",
+      "paragraph": "Мы покажем вам красоты Кыргызстана от озер и водопадов до величественных гор Ала-Тоо с их белоснежными шапками, совершим пешие туры и разобьем палаточные лагеря. Каждый тур особенный и станет вашим личным опытом.",
+      "first": "ПРИРОДА",
+      "firstText": "Откройте для себя природу Кыргызстана, ее величественные горы, зеленые долины и прекрасные озера.",
+      "second": "БЕЗОПАСНОСТЬ",
+      "secondText": "Вас будет сопровождать опытный гид, лично побывавший в каждом из мест и знающий каждый их закоулок.",
+      "third": "АКТИВНЫЙ ОТДЫХ",
+      "thirdText": "Активный отдых: Забудьте про пикники. Вам предстоят прогулки по живописным склонам гор и диким лесным тропинкам.",
+      "fourth": "ДОСТУПНЫЕ ЦЕНЫ",
+      "fourthText": "Широкий выбор интересных туров за оптимальную цену."
+    },
+    "about": {
+      "imageURL": "about.jpeg",
+      "title": "О нас",
+      "promo": "Познайте красоты дикой природы Кыргызстана.",
+      "paragraph": "Мы специализируемся на организации туров по просторам Кыргызстана. Мы покажем вам не только главные достопримечательности нашей страны, но и места, затерявшиеся среди гор, по которым редко ступает нога человека. Помимо походов, мы организуем палаточные лагеря, позволяющие вам в течение нескольких дней погрузиться в дикую природу и насладиться ее красотой. Настало время для ваших приключений.",
+      "title2": "Наша миссия",
+      "paragraph2": "Провести экскурсии и походы по красочным местам нашей страны, который навсегда останутся в ваших воспоминаниях. Мы составим маршрут и план тура в соответствие с вашими пожеланиями, поэтому каждый новый тур будет уникальным. Наша команда обеспечит вам качественный и безопасный отдых на дикой природе, где каждый откроет для себя что-то новое."
+    },
+    "contacts": {
+      "imageURL": "contacts.jpeg",
+      "title": "Контакты",
+      "promo": "Если у вас есть какие-либо вопросы, не стесняйтесь спрашивать через любые средства связи.",
+      "numberTitle": "Телефон",
+      "number1": "+996-777-771-884",
+      "number2": "+371-2322-5773",
+      "number3": "+996-555-580-034",
+      "emailTitle": "E-mail",
+      "email": "wildtourkg@gmail.com",
+      "facebookTitle": "Facebook",
+      "facebook": "wildtourkg",
+      "call": "позвонить",
+      "message": "написать",
+      "follow": "перейти"
+    },
+    "reserve": {
+      "imageURL": "reserve.jpeg",
+      "title": "Бронь",
+      "promo": "Если вы хотите заказать тур, можете отправить нам заявку и мы обязательно вам перезвоним.",
+      "name": "Ваше имя",
+      "number": "E-mail или номер телефона",
+      "message":"Обращение (необязательно)",
+      "send": "Отправить",
+      "call": "Либо позвоните нам и закажите тур по телефону.",
+      "thanks": "Спасибо!",
+      "error": "Пожалуйста заполните все необходимые поля!"
+    }
+  }
+}
